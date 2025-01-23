@@ -1,0 +1,13 @@
+asgiref
+Django
+joblib
+numpy
+opencv-python
+pillow
+pip
+pywavelets
+scikit-learn
+scipy
+sqlparse
+threadpoolctl
+tzdata
